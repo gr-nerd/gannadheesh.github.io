@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-
-h1{
-  color: rgb(12, 65, 212);
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.nav__links{
+  list-style: none;
 }
+.nav__links li {
+  display: inline-block;
+  padding: auto;
 
-body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
-font-size: 20px;  color: red;
-font-weight: 500; font-style: italic; 
-background-color: black;}
-button{
-  background-color: black;
-  color: red;
 }
-
+.nav__links li a{
+  transition: all 0.3 ease;
+}
+.nav__links li a:hover{
+  color: #0088a9;
+}
 li, a{
   font-family: 'Montserrat' sans-serif;
   font-weight: 500;
@@ -28,17 +28,18 @@ header{
 
 }
 
-.nav__links{
-  list-style: none;
-}
-.nav__links li {
-  display: inline-block;
-  padding: auto;
+*/
 
+h1{
+  color: rgb(12, 65, 212);
 }
-.nav__links li a{
-  transition: all 0.3 ease;
+
+body{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+font-size: 20px;  color: red;
+font-weight: 500; font-style: italic; 
+background-color: black;}
+button{
+  background-color: black;
+  color: red;
 }
-.nav__links li a:hover{
-  color: #0088a9;
-}
+
