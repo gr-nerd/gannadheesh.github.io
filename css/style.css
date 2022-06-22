@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 h1{
   color: rgb(12, 65, 212);
 }
@@ -10,4 +11,32 @@ button{
   background-color: black;
   color: red;
 }
+li, a{
+  font-family: 'Montserrat' sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  color: whitesmoke;
+  text-decoration: none;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
 
+}
+
+.nav__links{
+  list-style: none;
+}
+.nav__links li {
+  display: inline-block;
+  padding: auto;
+
+}
+.nav__links li a{
+  transition: all 0.3 ease;
+}
+.nav__links li a:hover{
+  color: #0088a9;
+}
