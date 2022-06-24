@@ -1,7 +1,7 @@
 
-//comment 
-const g = 15;
-console.log(g)
-const  h = 656;
-console.log(h)
-console.log("adding g & h gives" , g+h)
+var typed = new Typed(".auto-text", {
+    strings: ["Hello world", "Personal website"],
+    typeSpeed: 100,
+    backSpeed: 100,
+    loop: true
+})
