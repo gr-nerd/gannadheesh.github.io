@@ -68,3 +68,9 @@ nav .nav-about,a:nth-child(2):hover~.animation{
   left: 101px;
 
 }
+footer{
+  color: white;
+  font-family: 'bettins';
+  font-style: italic;
+  text-align: center;
+}
