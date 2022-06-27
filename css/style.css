@@ -6,6 +6,11 @@
   font-family: 'city';
   src: url(/fonts/BrusselsCityPersonalUsed-L3Lon.otf);
 }
+@font-face {
+  font-family: 'love';
+  src: url(/fonts/LoveRabbitPersonalUse-lgRaZ.ttf);
+}
+
 h1{
   font-size: 45px;
   background: -webkit-linear-gradient(rgb(16, 102, 172), rgb(206, 206, 206));
