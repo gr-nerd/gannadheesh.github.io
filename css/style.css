@@ -74,7 +74,7 @@ nav .nav-about,a:nth-child(2):hover~.animation{
 
 }
 footer{
-  color: white;
+  color: rgb(5, 219, 235);
   font-family: 'bettins';
   font-style: italic;
   text-align: center;
