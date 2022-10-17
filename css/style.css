@@ -23,7 +23,7 @@ body{
   font-size: 20px;  color: red;
   font-weight: 500; font-style: normal;
   background-color: black;
-  background-image: url(/img/back.jpg);
+  
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
