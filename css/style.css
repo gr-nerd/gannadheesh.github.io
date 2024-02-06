@@ -46,9 +46,9 @@ nav{
 nav a{
   font-size: 30px;
   text-transform: uppercase;
-  color: whitesmoke;
+  color: rgb(255, 255, 255);
   text-decoration: dotted;
-  line-height: 0px;
+  line-height: 20px;
   position: relative;
   z-index: 1;
   display: inline-block;
