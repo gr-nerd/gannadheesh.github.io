@@ -20,7 +20,7 @@ h1{
 
 body{
   font-family: 'city', sans-serif;
-  font-size: 20px;  color: red;
+  font-size: 20px;  color: rgb(88, 80, 80);
   font-weight: 500; font-style: normal;
   background-color: black;
   
@@ -38,7 +38,7 @@ body{
 nav{
   position: relative;
   margin: 10px auto 0;
-  width: 10000px;
+  width: 1000px;
   height: 50px;
   background-color: rgb(51, 48, 48);
   border-radius: 5px;
@@ -48,7 +48,7 @@ nav a{
   text-transform: uppercase;
   color: whitesmoke;
   text-decoration: dotted;
-  line-height: 50px;
+  line-height: 0px;
   position: relative;
   z-index: 1;
   display: inline-block;
@@ -59,9 +59,9 @@ nav .animation{
   height: 100%;
   top: 0;
   z-index: 0;
-  background: red;
+  background: rgb(53, 80, 141);
   border-radius: 5px;
-  transition: all 244ms ease 0s;
+  transition: all 250ms ease 0s;
 
 }
 a:nth-child(1){
